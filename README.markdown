@@ -1,4 +1,4 @@
-Vessel flavour for PyBlosxom
+# Vessel flavour for PyBlosxom
 
 Vessel is a simple flavour for [PyBlosxom](http://pyblosxom.sourceforge.net/), based on [Armin Ronacher](http://lucumr.pocoo.org/)'s Vessel theme for [Zine](http://zine.pocoo.org/). Vessel has all the usual and:
 
