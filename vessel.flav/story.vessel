@@ -1,0 +1,14 @@
+  <div class="entry">
+    <h3><a href="$(base_url)/$(file_path_urlencoded)">$(title)</a></h3>
+    <p class="meta">
+      written by $(blog_author) on <a href="$(base_url)/$(yr)/$(mo)/$(da)">$(dw)</a> $(da) <a href="$(base_url)/$(yr)/$(mo)">$(mo)</a> <a href="$(base_url)/$(yr)">$(yr)</a>
+    </p>
+    <div class="text">
+        $body
+    </div>
+    <!-- in 'related' you could put any metadata such as categories, tags,
+         permalink, etc.
+    <p class="related">
+    </p>
+    -->
+  </div>
