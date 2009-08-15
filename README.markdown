@@ -10,4 +10,6 @@ Vessel is a simple flavour for [PyBlosxom](http://pyblosxom.sourceforge.net/), b
 *  There are also CSS styles for a tag cloud, metadata, 
    comments, related posts, forms, pagination and errors.
 
+## Screenshot
+
 <img src="http://github.com/seanh/PyBlosxom-vessel/raw/b1467444c7869b18074f30520c252866ad65f25a/Screenshot.png" />
