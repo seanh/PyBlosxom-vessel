@@ -12,4 +12,4 @@ Vessel is a simple flavour for [PyBlosxom](http://pyblosxom.sourceforge.net/), b
 
 ## Screenshot
 
-<img src="http://github.com/seanh/PyBlosxom-vessel/raw/b1467444c7869b18074f30520c252866ad65f25a/Screenshot.png" />
+<img src="http://github.com/seanh/PyBlosxom-vessel/raw/0354c8acfd21d5c14a0329df5c6731a44b5e3288/Screenshot.png" />
